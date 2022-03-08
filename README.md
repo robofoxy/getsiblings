@@ -2,6 +2,8 @@
 
 Linux system call for getting list of sibling process IDs of a process.
 
+Rasit Ozdemir
+
 #### Adding System Call
 You need the recompile the kernel in order to add the system call. You need the following steps:
 * Get kernel source 5.10.0 (Any Debian bullseye 5.10.x version may work)
